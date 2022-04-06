@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ... https://twitter.com/marcos_v2
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Don´t have a camera but https://www.instagram.com/marcos_v2_/
+- ⚡ Fun fact: Don´t have a camera but i´m doing this https://www.instagram.com/marcos_v2_/
 -->
