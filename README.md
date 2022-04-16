@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Javascript, HTML and CSS
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with GIT,HTML,Javascript and CSS
+- 🤔 I’m looking for help with GIT (specially to sign commits with gpg),HTML,Javascript and CSS
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ... https://twitter.com/marcos_v2
 <!-- - 😄 Pronouns: ... -->
